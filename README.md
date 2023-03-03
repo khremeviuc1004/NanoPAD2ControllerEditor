@@ -1,5 +1,7 @@
 # Nano PAD 2 Controller Editor for Linux
 
+![Image of GUI](gui.png "Main Window")
+
 ## Build Instructions
 ### Java Maven Build
 Whilst in the project directory run the following:
