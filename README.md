@@ -13,7 +13,7 @@ mvn assembly:assembly -DdescriptorId=jar-with-dependencies
 ### C++ Java JNI Dynamic Library Build
 
 #### Dependencies
-A Java JDK must be installed and the JAVA_HOME environment variable set.
+A Java JDK (version >= 11) must be installed and the JAVA_HOME environment variable set.
 The ALSA development libraries must be installed.
 
 #### Building
